@@ -1,0 +1,21 @@
+{
+    "short_name": "Flint",
+    "name": "Flint",
+    "background_color": "#666666",
+    "theme_color": "#666666",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "http://kooper.online/stuff/flint/",
+    "icons": [
+        {
+            "src": "icon512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icon192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
